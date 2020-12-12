@@ -1,1 +1,1 @@
-# Optimization-Method-Course
+# Optimization Methods
